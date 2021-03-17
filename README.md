@@ -1,3 +1,18 @@
+# angular-ghpages
+_Angular | GitHub Pages_  
+Proyecto inicial de Angular desplegado sobre GitHub Pages.  
+  
+Comandos.  
+Sobre la ruta local del proyecto Angular, vincula el proyecto local al repositorio remoto:  
+git remote add origin URL_repo  
+Sube los cambios del proyecto local al repositorio remoto (master es la rama por defecto del .git del proyecto de Angular):  
+git push -u origin master  
+Desde el repositorio dentro del navegador establecemos la rama master por defecto y eliminamos la rama main.  
+ng add angular-cli-ghpages  
+ng deploy --base-href=https://luisvalles92.github.io/nombre-del-repositorio-gh/
+  
+[Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [npmjs](https://www.npmjs.com/package/angular-cli-ghpages) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
+  
 # ProyectoGHPages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
