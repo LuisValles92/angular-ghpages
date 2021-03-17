@@ -10,7 +10,8 @@ git push -u origin master
 Desde el repositorio dentro del navegador establecemos la rama master por defecto y eliminamos la rama main.  
 ng add angular-cli-ghpages  
 ng deploy --base-href=https://luisvalles92.github.io/nombre-del-repositorio-gh/  
-Terminamos con un commit y un push desde VSC para guardar los cambios provocados por el npmjs.
+Terminamos con un commit y un push desde VSC para guardar los cambios provocados por el npmjs.  
+Para cualquier cambio en nuestro repositorio es necesario volverlo a desplegar para visualizar los cambios (último comando).
   
 [Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [npmjs](https://www.npmjs.com/package/angular-cli-ghpages) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
   
