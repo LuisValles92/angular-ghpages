@@ -1,5 +1,5 @@
 # angular-ghpages
-_Angular | GitHub Pages  
+_Angular | GitHub Pages_  
 Proyecto inicial de Angular desplegada sobre GitHub Pages.  
 [Enlace](https://luisvalles92.github.io/angular-ghpages/) | [Tutorial](https://www.youtube.com/watch?v=lM4A6SBK1uQ) | [Repositorio](https://github.com/LuisValles92/angular-ghpages)
   
